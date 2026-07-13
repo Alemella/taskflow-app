@@ -1,0 +1,26 @@
+<svg width="360" height="800" viewBox="0 0 360 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E6FFFB" />
+      <stop offset="100%" stop-color="#F7FAFC" />
+    </linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0EA5A4" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.20"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="360" height="800" fill="url(#bg)"/>
+  <circle cx="308" cy="96" r="110" fill="url(#orb)"/>
+  <circle cx="42" cy="708" r="96" fill="#14B8A640"/>
+
+  <rect x="60" y="258" width="240" height="240" rx="48" fill="#FFFFFF" stroke="#DDE7EE"/>
+  <rect x="104" y="326" width="152" height="16" rx="8" fill="#0EA5A4"/>
+  <rect x="104" y="354" width="110" height="16" rx="8" fill="#1F2937"/>
+  <rect x="104" y="382" width="136" height="16" rx="8" fill="#16A34A"/>
+
+  <text x="180" y="548" text-anchor="middle" font-family="Poppins, Segoe UI, sans-serif" font-size="36" font-weight="700" fill="#0F172A">TaskFlow</text>
+  <text x="180" y="578" text-anchor="middle" font-family="Nunito Sans, Segoe UI, sans-serif" font-size="14" fill="#475569">Organiza tu dia con enfoque</text>
+
+  <rect x="126" y="676" width="108" height="6" rx="3" fill="#CBD5E1"/>
+</svg>

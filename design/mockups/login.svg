@@ -1,0 +1,37 @@
+<svg width="360" height="800" viewBox="0 0 360 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F0FDFA" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+  </defs>
+
+  <rect width="360" height="800" fill="url(#bg)"/>
+  <rect x="0" y="0" width="360" height="190" fill="#0EA5A4"/>
+  <circle cx="40" cy="35" r="80" fill="#FFFFFF22"/>
+  <circle cx="320" cy="10" r="70" fill="#FFFFFF1A"/>
+
+  <text x="28" y="98" font-family="Poppins, Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">Bienvenido</text>
+  <text x="28" y="126" font-family="Nunito Sans, Segoe UI, sans-serif" font-size="14" fill="#D1FAE5">Ingresa para gestionar tus tareas</text>
+
+  <rect x="20" y="150" width="320" height="530" rx="30" fill="#FFFFFF" stroke="#DDE7EE"/>
+
+  <text x="40" y="236" font-family="Nunito Sans, Segoe UI, sans-serif" font-size="13" fill="#334155">Correo</text>
+  <rect x="40" y="246" width="280" height="52" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="54" y="278" font-family="Nunito Sans, Segoe UI, sans-serif" font-size="14" fill="#64748B">tu@email.com</text>
+
+  <text x="40" y="336" font-family="Nunito Sans, Segoe UI, sans-serif" font-size="13" fill="#334155">Contrasena</text>
+  <rect x="40" y="346" width="280" height="52" rx="14" fill="#F8FAFC" stroke="#CBD5E1"/>
+  <text x="54" y="378" font-family="Nunito Sans, Segoe UI, sans-serif" font-size="14" fill="#94A3B8">........</text>
+
+  <rect x="40" y="432" width="16" height="16" rx="4" fill="#E2E8F0" stroke="#94A3B8"/>
+  <text x="64" y="445" font-family="Nunito Sans, Segoe UI, sans-serif" font-size="13" fill="#475569">Mantener sesion iniciada</text>
+
+  <rect x="40" y="474" width="280" height="54" rx="16" fill="#0EA5A4"/>
+  <text x="180" y="507" text-anchor="middle" font-family="Poppins, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#FFFFFF">Iniciar sesion</text>
+
+  <rect x="40" y="544" width="280" height="54" rx="16" fill="#FFFFFF" stroke="#0EA5A4"/>
+  <text x="180" y="577" text-anchor="middle" font-family="Poppins, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#0EA5A4">Crear cuenta</text>
+
+  <text x="180" y="640" text-anchor="middle" font-family="Nunito Sans, Segoe UI, sans-serif" font-size="12" fill="#64748B">TaskFlow v1.0</text>
+</svg>
