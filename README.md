@@ -1,6 +1,6 @@
-# taskflow-app
+# TaskDay-app
 
-TaskFlow es un proyecto personal para portafolio con backend en Spring Boot y autenticación JWT.
+TaskDay es un proyecto personal para portafolio con backend en Spring Boot y autenticación JWT.
 
 ## Backend
 

@@ -1,7 +1,7 @@
-# TaskFlow Android Front Summary
+# TaskDay Android Front Summary
 
 ## Objetivo
-Crear la app Android de TaskFlow en Kotlin usando Jetpack Compose y conectarla al backend Spring Boot ya listo.
+Crear la app Android de TaskDay en Kotlin usando Jetpack Compose y conectarla al backend Spring Boot ya listo.
 
 ## Stack recomendado
 - Kotlin
